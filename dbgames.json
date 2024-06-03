@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Jogo 1",
+      "descricao": "Souslike do pinóquio",
+      "foto": "jogo1.PNG",
+      "preco": 200
+    },
+    {
+      "id": 2,
+      "produto": "Jogo 2",
+      "descricao": "300h de bruxaria e fodas",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "Jogo 3",
+      "descricao": "300h de pura magia, em um universo foda",
+      "foto": "jogo3.PNG",
+      "preco": 200
+    },
+    {
+      "id": 0,
+      "produto": "",
+      "descricao": "",
+      "foto": "",
+      "preco": 0
+    }
+  ]
+}
